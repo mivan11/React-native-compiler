@@ -1,0 +1,24 @@
+node_modules/**/*
+.expo/*
+.expo-shared/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+package-lock.json
+web-build/
+backend/node_modules
+backend/temp
+backend/.env
+.env
+backend/package-lock.json
+backend/python.exe
+backend/python39.dll
+backend/pythonw.exe
+
+# macOS
+.DS_Store
+node_modules
